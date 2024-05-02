@@ -1,0 +1,22 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3em;
+    color: green;
+}
+
+.subtitulo{
+    color: fuchsia;
+    font-weight: bold;
+}
+
+h2{font-size: 3em;}
+
+#servicios{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+p{
+    text-align: justify;
+}
